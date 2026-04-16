@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+
+# Image Processing
+opencv-python
+Pillow
+scikit-image
+
+# Scientific Computing
+scipy
+
+# Visualization (optional but useful for debugging/plots)
+matplotlib
+
+# API Handling
+requests
+
+# JSON handling (built-in but keeping for clarity)
+simplejson
+
+# Progress / CLI UX (optional)
+tqdm
+
+# Environment management (optional)
+python-dotenv
+
+# Machine Learning / Embeddings (if used anywhere)
+scikit-learn
+
+# Ollama interaction (no official lib, handled via requests)
+# so nothing extra needed here
